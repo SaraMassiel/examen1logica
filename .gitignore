@@ -1,0 +1,33 @@
+# Archivos de compilación de Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Directorios de compilación
+/bin/
+/build/
+/out/
+
+# Archivos de IDE (IntelliJ, VS Code, Eclipse, NetBeans)
+.idea/
+.vscode/
+.project
+.classpath
+.settings/
+*.iml
+*.ipr
+*.iws
+
+# Dependencias de Maven/Gradle
+/target/
+.gradle/
+build/
+
+# Logs
+*.log
+log/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
